@@ -1,4 +1,4 @@
-# java program
+# JAVA PROGRAMS
 
 I have tried seven programs off of the given list.
 
